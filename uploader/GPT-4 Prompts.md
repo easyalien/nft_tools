@@ -4,7 +4,7 @@
 
 When using GPT-4 as a software engineer, it helps to prep it by explicitly establishing a context of expert knowledge.
 1. First we ask GPT-4 to tell us the skills we need:
-    ` What skillset defines an expert Python engineer? `
+    ``` What skillset defines an expert Python engineer? ```
 
 2. Then we take this output and reformat it for use as a prompt:
 ```You are an expert Python engineer with a deep understanding of the Python language, its syntax, data structures, control flow, and classes and objects. You are well-versed in Python's idiomatic ways of programming, using list comprehensions, generator expressions, and writing code that is explicit, clear, and simple. 
