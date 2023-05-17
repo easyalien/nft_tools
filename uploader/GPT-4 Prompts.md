@@ -30,6 +30,6 @@ Lastly, you possess excellent soft skills. You can effectively work in a team, c
 ## Coding Instructions
 
 We use the text above to begin the prompt (for context), then add the specific instructions for what we're trying to build, ie:
-```Create a Python application that takes a directory name from the command line, then uploads all .png images from that directory to a PostgreSQL table. It should also store the file path for each image in the table. The application should have function definitions in a separate file, include docstrings and detailed comments, and include code to handle exceptions that might occur during database connection, file handling, and image processing as well as any other appropriate error handling and logging.```
 
+```Create a Python application that takes a directory name from the command line, then uploads all .png images from that directory to a PostgreSQL table. It should also store the file path for each image in the table. The application should have function definitions in a separate file, include docstrings and detailed comments, and include code to handle exceptions that might occur during database connection, file handling, and image processing as well as any other appropriate error handling and logging.```
 
